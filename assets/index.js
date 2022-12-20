@@ -12,29 +12,52 @@ const questions = [
     },
     {
         type: "input",
-        name: "title",
-        message: "What would you like to name your project?"
+        name: "description",
+        message: "What is your project about?"
     },
     {
         type: "input",
-        name: "title",
-        message: "What would you like to name your project?"
+        name: "installation",
+        message: "What packages need to be installed to run your project?"
     },
     {
         type: "input",
-        name: "title",
-        message: "What would you like to name your project?"
+        name: "usage",
+        message: "How can your project be used?"
     },
     {
         type: "input",
-        name: "title",
-        message: "What would you like to name your project?"
+        name: "contributions",
+        message: "Who all contributed to this project?"
+    },
+    {
+        type: "input",
+        name: "tests",
+        message: "How do you test the project?"
+    },
+    {
+        type: "list",
+        name: "license",
+        message: "Pick a license for your project.",
+        choices: ["mit", "wtfpl", "cc", "none"]
+    },
+    {
+        type: "input",
+        name: "gitHub",
+        message: "What is your GitHub handle?"
+    },
+    {
+        type: "input",
+        name: "email",
+        message: "What is your email address?"
     },
 
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+
+}
 
 // TODO: Create a function to initialize app
 function init() {}

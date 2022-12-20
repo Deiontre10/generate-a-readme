@@ -36,7 +36,7 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Contributors
-  ${data.contributer}
+  ${data.contributions}
 
   ## Tests
   To test, run the following command: ${data.tests}
