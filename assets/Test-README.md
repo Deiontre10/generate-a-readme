@@ -1,8 +1,8 @@
 
-  # Why
+  # Hey Deliladh
 
   ## Description
-    errthang
+    Getting hoes
 
   ## Table of Contents
   - [Installation](#installation)
@@ -16,7 +16,7 @@
   Packages required to run this program are: allum
   
   ## Usage
-  Examples of how to use this program: numb
+  Examples of how to use this program: to get hoes
 
   ## License
   mit
@@ -25,8 +25,10 @@
   me
 
   ## Tests
-  To test, run the following command: dont
+  To test, run the following command: with the hoes
 
   ## Questions
-  If you have any questions, contact help@gmail.com
+  If you have any questions, contact ash@ketchum.com
+
+  You can find my GitHub repo at: https://www.github.com/Deiontre10
   

@@ -39,7 +39,7 @@ prompt([
         type: "list",
         name: "license",
         message: "Pick a license for your project.",
-        choices: ["mit", "wtfpl", "cc", "none"]
+        choices: ["MIT", "Apache 2.0", "ISC", "none"]
     },
     {
         type: "input",
