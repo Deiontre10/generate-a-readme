@@ -56,7 +56,6 @@ prompt([
     .then(generateReadme)
     .then(writeToFile)
 
-// TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     try {
         fs.writeFileSync("Test-README.md", fileName);
